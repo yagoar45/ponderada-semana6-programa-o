@@ -13,6 +13,7 @@ Para fomentar o aprendizado contínuo em sistemas conversacionais e lidar com o 
 ### Diagrama de Blocos
 
 ![Diagrama de Blocos](https://exemplo.com/diagrama_de_blocos.png)
+<img src = "./imgs/diagrama-da-solucao.png">
 
 ### Descrição dos Blocos
 
